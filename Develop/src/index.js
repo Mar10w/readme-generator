@@ -5,7 +5,7 @@ import generateMarkdown from './generateMarkdown.js';
 import { questions } from './utils/questions.js';
 
 // TODO: Create an array of questions for user input
-//const questions = [];
+const questions = [];
 
 // TODO: Create a function to write README file
 //function writeToFile(fileName, data) {}
