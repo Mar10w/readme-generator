@@ -45,6 +45,6 @@ const questions = [
       name: 'email',
       message: 'What is your email address?'
     }
-  ];
+];
   
-  export default questions;
+export default questions;
